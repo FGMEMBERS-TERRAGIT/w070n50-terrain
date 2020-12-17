@@ -1,0 +1,6 @@
+OBJECT_BASE 1942280.btg
+OBJECT CYNA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -61.796001 50.191769 7.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -61.782882 50.187258 10.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -61.785395 50.188121 9.5 0.00
+OBJECT_SIGN {@R}14-32{@@,safety} -61.789444 50.189798 8.7 332.30 2
